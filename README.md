@@ -210,10 +210,7 @@ const rajnish = {
 
 ## 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajnish-bytes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3EAEF7&icon_color=3EAEF7&text_color=C9D1D9" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajnish-bytes&theme=tokyonight&hide_border=true&background=0D1117&ring=3EAEF7&fire=3EAEF7&currStreakLabel=3EAEF7" alt="GitHub Streak" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnish-bytes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3EAEF7&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+![GitHub Streak](https://streak-stats.demolab.com?user=rajnish-bytes&theme=transparent)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajnish-bytes&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3EAEF7&line=3EAEF7&point=C9D1D9)
 
