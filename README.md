@@ -222,7 +222,7 @@ const rajnish = {
 
 ### 🤝 Let's Connect!
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8595607317)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+918595607317)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.razz.king2004@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=rajnish-bytes&color=3EAEF7&style=flat-square&label=Profile+Views" alt="Profile views" />
